@@ -95,7 +95,7 @@ math.py
                 Area=<input type="text" name="area" value={{area}}></input>
             </div>
             <div class="footer">
-                    Developed by YOGABHARATHI.S
+                    Developed by Mohamed Zayeem Nadeen
             </div>
         </form>
     </div>
